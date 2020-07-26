@@ -4,6 +4,10 @@
     <bytecodeTargetLevel>
       <module name="first-selenium-project-25-07-2020_main" target="1.8" />
       <module name="first-selenium-project-25-07-2020_test" target="1.8" />
+      <module name="wiki-we-tests_main" target="1.8" />
+      <module name="wiki-we-tests_test" target="1.8" />
+      <module name="wiki-web-tests_main" target="1.8" />
+      <module name="wiki-web-tests_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

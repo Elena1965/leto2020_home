@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-selenium-project-25-07-2020.iml" filepath="$PROJECT_DIR$/.idea/modules/first-selenium-project-25-07-2020.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-selenium-project-25-07-2020_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-selenium-project-25-07-2020_main.iml" group="first-selenium-project-25-07-2020" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-selenium-project-25-07-2020_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-selenium-project-25-07-2020_test.iml" group="first-selenium-project-25-07-2020" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki-web-tests_main.iml" group="wiki-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wiki-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wiki-web-tests_test.iml" group="wiki-web-tests" />
     </modules>
   </component>
 </project>
